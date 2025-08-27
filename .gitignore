@@ -1,0 +1,4 @@
+/.env
+/listings_summary.csv
+/venv
+/__pycache__
